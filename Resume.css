@@ -1,0 +1,43 @@
+body,
+html {
+
+  font-family: 'monospace;';
+  background: url(https://i.pinimg.com/736x/f6/21/82/f621828bf1f6ae1aedb94cd4b49a5156.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: left;
+  padding:12px 12px 12px 12px;
+
+}
+h1 {
+  font-size: 50px;
+  Color: darkred;
+  font-display: !important;
+  font-family: comic sans;
+  text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	font-size: 25px;
+	font-weight: bold ;
+	text-decoration: underline;
+	color: darkred;
+}
+
+p {
+	font-size: 20px;
+	font-weight: bold;
+
+}
+li{
+	font-size: 19px;
+}
+a:hover {
+  background-color: yellow;
+}
